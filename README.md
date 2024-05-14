@@ -1,10 +1,9 @@
-👋
 ✨𝔭𝔯0𝔳𝔠𝔱𝔯 ™ {🥃,🍿,💻}✨
 
+👋
+
 - 🔭 I’m currently working on **hyperindustries** (a project that makes other projects) and **decoder** (a prototype to be launched soon)
-
 - 🌱 I’m currently learning **LLM system design** and **prompt engineering**
-
 - ⚡ Fun fact: I am both an engineer and an artist
 
 
