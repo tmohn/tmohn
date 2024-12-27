@@ -2,7 +2,7 @@
 
 - 💻 Currently CTO @DeepVoodooFX
 - 🔭 I’m currently working on **hyperindustries** (a project that makes other projects) and **decoder** (a prototype to be launched soon)
-- 🌱 I’m currently learning **LLM system design**
+- 🌱 I’m currently developing a **burner phone for sharing audio+video**
 - ⚡ Fun fact: I am both an engineer and an artist
 
 
