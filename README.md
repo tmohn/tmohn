@@ -1,6 +1,5 @@
 ✨ 𝔭𝔯0𝔳𝔠𝔱𝔯 ™ {💻, 🍿, 🥃} ✨
 
-- 💻 Currently CTO @DeepVoodooFX
 - 🔭 I’m currently working on **hyperindustries** (a project that makes other projects) and **decoder** (a prototype to be launched soon)
 - 🌱 I’m currently fiddling with building a **modern burner phone** and a **toolset for aesthetic idea generation**
 - ⚡ Fun fact: I am both an engineer and an artist
