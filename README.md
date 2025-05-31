@@ -1,7 +1,7 @@
-✨ 𝔭𝔯0𝔳𝔠𝔱𝔯 ™ {💻, 🍿, 🥃} ✨
+✨ 𝔭𝔯0𝔳𝔠𝔱𝔯 ™ {💻, ♽, ䷖} ✨
 
-- 🔭 I’m currently working on **hyperindustries** (a project that makes other projects) and **decoder** (a prototype to be launched soon)
-- 🌱 I’m currently fiddling with building a **modern burner phone** and a **toolset for aesthetic idea generation**
+- ۞ I’m currently working on **my art** exploring the boundry between abstraction and figuration via algorithmic latent space
+- 🌱 I’m currently considering pursuing a PhD
 - ⚡ Fun fact: I am both an engineer and an artist
 
 
