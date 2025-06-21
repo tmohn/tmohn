@@ -1,6 +1,6 @@
 ✨ 𝔭𝔯0𝔳𝔠𝔱𝔯 ™ {💻, ♽, ䷖} ✨
 
-- ۞ I’m currently working on **my art** exploring the boundry between abstraction and figuration via algorithmic latent space
+- ۞ I’m currently working on **my art** exploring the boundry between abstraction and figuration via latent spaces
 - 🌱 I’m currently considering pursuing a PhD
 - ⚡ Fun fact: I am both an engineer and an artist
 
